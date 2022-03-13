@@ -1,0 +1,20 @@
+/* if you want to access any class use . and for id use # */
+.content{
+ text-align: center;
+ margin-top: 17%;
+ margin-left: 33%;
+ margin-right: 35%;
+ margin-bottom: 30%;
+color: white;
+}
+.green{
+    color: rgb(241, 20, 20);
+}
+body{
+    background: url(https://media.istockphoto.com/vectors/abstract-metallic-red-frame-carbon-kevlar-pattern-tech-sports-vector-id597649380?k=20&m=597649380&s=612x612&w=0&h=-uP2etDx_2duQr-iSJ8ITP37YNvrExT6kwIbniwHS8o=);
+    background-size: contain;
+    opacity: 100%;
+}
+html{
+    height: 100%;
+}
